@@ -6,7 +6,7 @@
 	<p>✨ Primary Skills ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
