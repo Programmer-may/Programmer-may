@@ -10,14 +10,14 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring data jpa-6DB33F?style=flat&logo=Databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Databricks&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=flat&logo=amazon aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flaCHA&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <br>
@@ -59,11 +59,16 @@
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-	<br>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <br>
 </div>
 <br>
 <br>
