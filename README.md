@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there👋&desc=Here%20is%20Programmer-may🌱%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi~%20there👋&desc=Here%20is%20Programmer-may🌱%20GitHub&fontSize=50)
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -25,7 +25,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🛠 Secondary Skills 🛠</p>
+	<p>🔥 Secondary Skills 🔥</p>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
