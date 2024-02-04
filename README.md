@@ -3,7 +3,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
   <br>
-	<p>✨ Primary Skills ✨</p>
+	<p>✨ I’m currently focusing on... ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white" />
@@ -29,7 +29,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🔥 Secondary Skills 🔥</p>
+	<p>🔥  I have dabbled in... 🔥</p>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -59,7 +59,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 I’ve worked with these tools... 🛠</p>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
