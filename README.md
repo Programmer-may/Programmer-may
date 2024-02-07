@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Apache JMeter-#22128?style=flat&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
