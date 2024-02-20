@@ -84,9 +84,9 @@
 	<p>🎨 SNS & Blog 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.programmer-may.tistory.com" target="_blank">
+	<a href="https://programmer-may.tistory.com/" target="_blank">
 		<img src="https://img.shields.io/badge/🍀오월의 코딩일지-34A853?style=flat&logo=Tistory&logoColor=white" />
-  </a>
+  	</a>
 	<br>
 </div>
 <br>
