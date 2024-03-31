@@ -91,7 +91,6 @@
 		<img src="https://img.shields.io/badge/🍀오월의 코딩일지-34A853?style=flat&logo=Tistory&logoColor=white" />
   	</a>
 	<br>
-	<br>
 </div>
 <br>
 <br>
