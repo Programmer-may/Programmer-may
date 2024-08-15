@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi~%20there👋&desc=Here%20is%20Programmer-may🌱%20GitHub&fontSize=50)
 
-<table style="border: none; width: 100%;">
-  <tr style="border: none;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
     <td style="width: 50%; vertical-align: top; border: none;">
       <div align=center>
       <h3>📚 Tech Stack 📚</h3>
