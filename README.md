@@ -22,10 +22,12 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+	    <br>
       <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
+	    <br>
       <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
     </div>
@@ -49,6 +51,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flaCHA&logo=scikitlearn&logoColor=white" />
+	<br>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 	<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
@@ -70,6 +73,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+	<br>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Termius-000000?style=flat&logo=termius&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
