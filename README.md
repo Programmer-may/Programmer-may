@@ -14,8 +14,8 @@
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Databricks&logoColor=white">
+<br>
       <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
-      <br>
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
@@ -23,7 +23,6 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
-      <br>
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
@@ -43,8 +42,8 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
-  <br>
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -52,7 +51,6 @@
   <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flaCHA&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <br>
 	<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
   <img src="https://img.shields.io/badge/QueryDSL-0389CF?style=flat&logo=SingleStore&logoColor=white"/>
@@ -74,7 +72,6 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Termius-000000?style=flat&logo=termius&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
@@ -100,8 +97,11 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <div align="center">
+<h3>🌱 Gitnhub stats</h3>
 	      
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Programmer-may&show_icons=true&theme=default&hide=stars,contribs,rank)
+<h3>🧑‍🎓 Programmers</h3>
+
 [![](https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg)](https://github.com/Programmer-may/programmers-rank)
       </div>
     </td>
