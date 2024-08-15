@@ -1,35 +1,38 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi~%20there👋&desc=Here%20is%20Programmer-may🌱%20GitHub&fontSize=50)
 
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-  <br>
-	<p>✨ I’m currently focusing on... ✨</p>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Databricks&logoColor=white">
-	<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
-  <br>
-	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
-</div>
-<br>
-<br>
-<div align=center>
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="width: 50%; vertical-align: top; border: none;">
+      <div align=center>
+      <h3>📚 Tech Stack 📚</h3>
+      <br>
+      <p>✨ I’m currently focusing on... ✨</p>
+    </div>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Databricks&logoColor=white">
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white"/>
+    </div>
+  </div>
+	<br>
+  <div align=center>
 	<p>🔥  I have dabbled in... 🔥</p>
 </div>
 <div align=center>
@@ -94,6 +97,17 @@
 	<br>
 	<br>
 </div>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <div align="center">
+	      
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Programmer-may&show_icons=true&theme=default&hide=stars,contribs,rank)
+[![](https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg)](https://github.com/Programmer-may/programmers-rank)
+      </div>
+    </td>
+  </tr>
+</table>
+
 <br>
 <br>
 <br>
@@ -117,5 +131,8 @@ Here are some ideas to get you started:
 -->
 <br>
 
+<div>
+	
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Programmer-may&show_icons=true&theme=default&hide=stars,contribs,rank)
     
+</div>
