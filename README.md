@@ -81,7 +81,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
     <h3>🎨 SNS & Blog</h3>
