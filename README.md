@@ -8,7 +8,8 @@
     <p>✨ I’m currently focusing on... ✨</p>
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
