@@ -94,9 +94,6 @@
 <br>
 
 <div align="center">
-    <h3>🌱 GitHub Stats</h3>
-    
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Programmer-may&show_icons=true&theme=default&hide=stars,contribs,rank)
     <h3>🧑‍🎓 Programmers</h3>
 [![](https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg)](https://github.com/Programmer-may/programmers-rank)
     <h3>💯 Baekjoon</h3>
