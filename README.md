@@ -94,10 +94,16 @@
 <br>
 
 <div align="center">
-    <h3>🧑‍🎓 Programmers</h3>
-[![](https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg)](https://github.com/Programmer-may/programmers-rank)
-    <h3>💯 Baekjoon</h3>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkjh080)](https://solved.ac/parkjh080)
+
+### 🧑‍🎓 Programmers  
+<a href="https://github.com/Programmer-may/programmers-rank">
+  <img src="https://github.com/Programmer-may/programmers-rank/blob/master/lib/result.svg"/>
+</a>
+
+### 💯 Baekjoon  
+<a href="https://solved.ac/parkjh080">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=parkjh080"/>
+</a>
 </div>
 
 <br>
